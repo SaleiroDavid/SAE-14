@@ -87,6 +87,7 @@ main{
     margin-bottom: 1%;
     margin-right: 1%;
      background-color: rgba(255, 166, 0, 0.623);
+    font-size: large;
 
 }
 
@@ -96,6 +97,7 @@ main{
     margin-left: 1%;
     margin-bottom: 1%;
     margin-right: 1%;
+    font-size: large;
 }
 
 #article3{
@@ -104,6 +106,7 @@ main{
     margin-left: 1%;
     margin-bottom: 1%;
     margin-right: 1%;
+    font-size: large;
 }
 
 #article4{
@@ -112,6 +115,7 @@ main{
     margin-left: 1%;
     margin-bottom: 1%;
     margin-right: 1%;
+    font-size: large;
 }
 
 article{
@@ -119,12 +123,14 @@ article{
     box-sizing: border-box;
     flex-flow: row wrap;
     text-align: center;
+    font-size: large;
 }
 
 header{
     background-color: rgba(255, 166, 0, 0.623);
     padding: 10px;
     text-align: center;
+    font-size: large;
 }
 
 body{
